@@ -1,1 +1,23 @@
 /* stylesheet */
+* {
+  font-family: "Trebuchet MS", sans-serif;
+}
+
+html {
+  background-color: #dea5a4;
+}
+
+h1 {
+  font-size: 64px;
+  text-align: center;
+}
+
+img {
+  width: 300px;
+  height: auto;
+}
+
+ul li a {
+  font-size: 32px;
+  color: #0047ab;
+}
