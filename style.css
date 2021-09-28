@@ -21,3 +21,11 @@ ul li a {
   font-size: 32px;
   color: #0047ab;
 }
+
+.recipe_subtitle {
+  font-style: italic;
+}
+
+.recipe_callouts, .steps_header, .steps_list {
+  text-align: right;
+}
